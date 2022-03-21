@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc90d557-34d6-46db-a293-88836b9bdb3e": {
+      "ProjectGuid": "dc90d557-34d6-46db-a293-88836b9bdb3e",
+      "DisplayName": "ToDoApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
